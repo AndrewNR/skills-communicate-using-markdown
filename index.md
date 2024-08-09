@@ -4,3 +4,7 @@
 #### H4 test
 ##### H5 test
 ###### H6 test
+
+Adding image:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
