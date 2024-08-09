@@ -1,3 +1,7 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
+
 # H1 test
 ## H2 test
 ### H3 test
